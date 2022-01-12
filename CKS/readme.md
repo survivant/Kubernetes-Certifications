@@ -12,6 +12,7 @@ https://ravikirans.com/cks-kubernetes-security-exam-study-guide/
 https://madhuakula.com/kubernetes-goat/scenarios/index.html
 https://sysdig.com/blog/enable-kubernetes-pod-security-policy/
 https://deploy.live/blog/cks-certified-kubernetes-security-specialist-exam-preparation-guide/
+https://www.bswen.com/2021/05/cks-prepare-cks-with-me-7.html
 
 https://github.com/ramanagali/Interview_Guide/blob/main/CKS_Preparation_Guide.md
 https://github.com/theJaxon/CKS
@@ -21,3 +22,4 @@ https://itnext.io/cks-exam-series-1-create-cluster-security-best-practices-50e35
 https://github.com/killer-sh/cks-course-environment/tree/master/course-content
 https://rancher.com/docs/rancher/v2.5/en/security/rancher-2.5/1.6-benchmark-2.5/
 https://github.com/gluster/gluster-kubernetes/blob/master/vagrant/roles/common/files/10-kubeadm.conf
+https://jayendrapatil.com/certified-kubernetes-security-specialist-cks-learning-path/
